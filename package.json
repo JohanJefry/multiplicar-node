@@ -1,0 +1,18 @@
+{
+  "name": "03-base-nsode",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefry",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.4",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
